@@ -17,8 +17,6 @@
 
 <a id="about"></a>
 
-<img src="./tech-divider.svg" width="100%">
-
 ##  About
 
 <div dir="rtl">
@@ -171,9 +169,6 @@
 <br>
 
 <a id="contact"></a>
-
-<img src="./tech-divider.svg" width="100%">
-
 ## Collaboration
 
 <div align="center">
