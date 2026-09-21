@@ -1,7 +1,6 @@
-<img width="2172" height="724" alt="8ab021b4-a0fb-4769-bedc-9a9d6dee762a" src="https://github.com/user-attachments/assets/e7117f6d-9a9f-4ddd-a164-8d004e21202a" />
+<img width="1935" height="812" alt="258910a4-14d2-4a16-84c4-2fc7814ef91e" src="https://github.com/user-attachments/assets/1e464bdb-07b0-43a9-af04-3a806a64da1b" />
 <div align="center">
 <div align="center">
-
 <br>
 
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B132B?style=for-the-badge"></a>
