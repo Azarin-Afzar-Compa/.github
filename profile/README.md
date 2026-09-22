@@ -420,12 +420,6 @@ AZARIN AFZAR
 <sub>Technology & Product Development</sub>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/Research-0B132B?style=flat-square">
-<img src="https://img.shields.io/badge/Engineering-1C2541?style=flat-square">
-<img src="https://img.shields.io/badge/Innovation-D4AF37?style=flat-square&logoColor=black">
-
-<br><br>
 <img width="2172" height="724" alt="78dd6da5-ee74-481e-b39d-d385bf05ab09" src="https://github.com/user-attachments/assets/147fc61b-708b-45a6-a3d6-6051de1a8f25" />
 <sub>© Azarin Afzar</sub>
 
