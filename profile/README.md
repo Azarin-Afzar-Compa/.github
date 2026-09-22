@@ -1,14 +1,37 @@
 <img width="1935" height="812" alt="258910a4-14d2-4a16-84c4-2fc7814ef91e" src="https://github.com/user-attachments/assets/1e464bdb-07b0-43a9-af04-3a806a64da1b" />
 <div align="center">
-<div align="center">
+
 <br>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B132B?style=for-the-badge"></a>
-<a href="#capabilities"><img src="https://img.shields.io/badge/CAPABILITIES-1C2541?style=for-the-badge"></a>
-<a href="#technology"><img src="https://img.shields.io/badge/TECHNOLOGY-D4AF37?style=for-the-badge&logoColor=black&color=D4AF37"></a>
-<a href="#research"><img src="https://img.shields.io/badge/R%26D-1C2541?style=for-the-badge"></a>
-<a href="#work"><img src="https://img.shields.io/badge/WORK-0B132B?style=for-the-badge"></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-D4AF37?style=for-the-badge&color=D4AF37"></a>
+AZARIN AFZAR
+
+Technology & Product Development
+
+<p>
+Artificial Intelligence · Software Engineering · Data · Research & Development
+</p>
+
+<br>
+
+<a href="#about">ABOUT</a>
+  ·  
+<a href="#capabilities">CAPABILITIES</a>
+  ·  
+<a href="#technology">TECHNOLOGY</a>
+  ·  
+<a href="#research">R&D</a>
+  ·  
+<a href="#work">WORK</a>
+  ·  
+<a href="#collaboration">COLLABORATION</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/azarin-process.svg" width="92%" alt="Azarin Afzar development process">
 
 </div>
 
@@ -16,21 +39,27 @@
 
 <a id="about"></a>
 
-##  About
+About
 
 <div dir="rtl">
 
-**آذرین افزار** یک مجموعه فناوری در تقاطع **هوش مصنوعی، مهندسی نرم‌افزار و داده** است.
+آذرین افزار یک مجموعه فناوری و توسعه محصول است که در تقاطع
+هوش مصنوعی، مهندسی نرم‌افزار و داده فعالیت می‌کند.
 
-ما بر طراحی و توسعه سیستم‌های هوشمند و محصولات نرم‌افزاری تمرکز داریم؛ از پژوهش و آزمایش یک ایده تا تبدیل آن به یک سیستم مهندسی‌شده، قابل توسعه و قابل استفاده در دنیای واقعی.
+ما مسئله‌های پیچیده را از مرحله شناخت و پژوهش تا طراحی، نمونه‌سازی،
+مهندسی و تبدیل به محصولات و سیستم‌های قابل استفاده دنبال می‌کنیم.
+
+تمرکز ما صرفاً بر توسعه یک مدل یا یک نرم‌افزار نیست؛
+هدف، ساخت راهکارهای فناورانه‌ای است که از نظر فنی قابل توسعه،
+قابل نگهداری و آماده استفاده در دنیای واقعی باشند.
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/RESEARCH-0B132B?style=flat-square"> ➜
-<img src="https://img.shields.io/badge/ENGINEERING-1C2541?style=flat-square"> ➜
-<img src="https://img.shields.io/badge/PRODUCTION-D4AF37?style=flat-square&color=D4AF37">
+<strong>Research → Engineering → Product</strong>
 
 </div>
 
@@ -38,42 +67,92 @@
 
 <a id="capabilities"></a>
 
-##  Capabilities
+Capabilities
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-###  Artificial Intelligence
-<div dir="rtl">یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد، پردازش زبان طبیعی و سیستم‌های هوشمند.</div>
+Artificial Intelligence
+
+<div dir="rtl">
+
+یادگیری ماشین، یادگیری عمیق، هوش مصنوعی مولد،
+پردازش زبان طبیعی و توسعه سیستم‌های هوشمند
+برای مسائل کاربردی.
+
+</div>
 
 </td>
+
 <td width="50%" valign="top">
 
-###  Computer Vision
-<div dir="rtl">پردازش تصویر، تشخیص و طبقه‌بندی، تحلیل داده‌های بصری و پردازش تصاویر پزشکی.</div>
+Computer Vision
+
+<div dir="rtl">
+
+پردازش تصویر، بینایی ماشین، تشخیص و طبقه‌بندی،
+استخراج ویژگی و تحلیل داده‌های بصری و پزشکی.
+
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-###  Software Engineering
-<div dir="rtl">معماری نرم‌افزار، توسعه Backend، طراحی API، سامانه‌های مقیاس‌پذیر و یکپارچه‌سازی سیستم‌ها.</div>
+Software Engineering
+
+<div dir="rtl">
+
+معماری نرم‌افزار، توسعه Backend، طراحی API،
+طراحی سیستم، یکپارچه‌سازی سرویس‌ها و توسعه
+سامانه‌های قابل توسعه.
+
+</div>
 
 </td>
+
 <td width="50%" valign="top">
 
-###  Data & Intelligence
-<div dir="rtl">پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی، پیش‌بینی و سیستم‌های تصمیم‌یار.</div>
+Data & Intelligence
+
+<div dir="rtl">
+
+پردازش و تحلیل داده، داده‌کاوی، مدل‌سازی،
+پیش‌بینی و توسعه سیستم‌های تصمیم‌یار داده‌محور.
+
+</div>
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
 
-###  Research & Development
-<div dir="rtl">پژوهش کاربردی، توسعه الگوریتم، نمونه‌سازی، ارزیابی فناوری و بررسی فناوری‌های نوظهور.</div>
+<tr>
+<td width="50%" valign="top">
+
+Product Development
+
+<div dir="rtl">
+
+تبدیل ایده و نمونه اولیه به محصولات نرم‌افزاری
+قابل استفاده، قابل نگهداری و آماده توسعه در مقیاس واقعی.
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+Research & Development
+
+<div dir="rtl">
+
+پژوهش کاربردی، توسعه الگوریتم، ارزیابی فناوری،
+آزمایش ایده‌های جدید و تبدیل نتایج تحقیق به
+نمونه‌های مهندسی‌شده.
+
+</div>
 
 </td>
 </tr>
@@ -83,39 +162,31 @@
 
 <a id="technology"></a>
 
-##  Technology
+Technology
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" alt="Languages">
 
 <br><br>
 
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI technologies">
 
 <br><br>
 
-**Data**
-<br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+Data
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data technologies">
 
 <br><br>
 
-**Infrastructure**
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+Engineering & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux&theme=dark" alt="Engineering technologies">
 
 </div>
 
@@ -123,19 +194,40 @@
 
 <a id="research"></a>
 
-## 🔬 Research & Development
+Research & Development
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Research-0B132B?style=flat-square">➜<img src="https://img.shields.io/badge/Experiment-1C2541?style=flat-square">➜<img src="https://img.shields.io/badge/Prototype-1C2541?style=flat-square">➜<img src="https://img.shields.io/badge/Engineering-1C2541?style=flat-square">➜<img src="https://img.shields.io/badge/Production-D4AF37?style=flat-square&color=D4AF37">
+<img src="./assets/azarin-rnd.svg" width="92%" alt="Azarin research and development lifecycle">
 
 </div>
 
+<br>
+
 <div dir="rtl">
 
-تحقیق و توسعه در آذرین افزار با هدف تبدیل دانش و ایده‌های فناورانه به راهکارهای قابل استفاده انجام می‌شود.
+فرآیند تحقیق و توسعه در آذرین افزار از تعریف مسئله آغاز می‌شود.
+سپس راهکارها بررسی و در محیط آزمایشی ارزیابی می‌شوند.
+ایده‌های اثبات‌شده وارد مرحله نمونه‌سازی شده و در ادامه با
+اصول مهندسی نرم‌افزار به سیستم‌های قابل استفاده تبدیل می‌شوند.
 
-فرآیند توسعه از شناخت مسئله آغاز می‌شود، سپس ایده در محیط آزمایشی بررسی شده و در صورت اثبات قابلیت، به نمونه اولیه و در نهایت یک سیستم مهندسی‌شده تبدیل می‌شود.
+</div>
+
+<br>
+
+<div align="center">
+
+<code>DISCOVER</code>
+ → 
+<code>RESEARCH</code>
+ → 
+<code>EXPERIMENT</code>
+ → 
+<code>PROTOTYPE</code>
+ → 
+<code>ENGINEER</code>
+ → 
+<code>DEPLOY</code>
 
 </div>
 
@@ -143,47 +235,218 @@
 
 <a id="work"></a>
 
-##  Selected Work
+Selected Work
 
-| Area | Description | Stack |
-|---|---|---|
-| **Intelligent Systems** | <div dir="rtl">سامانه‌های هوشمند مبتنی بر یادگیری ماشین برای مسائل پیچیده و کاربردهای واقعی.</div> | `Python` `PyTorch` `FastAPI` |
-| **Computer Vision** | <div dir="rtl">سیستم‌های پردازش تصویر، بینایی ماشین و تحلیل داده‌های بصری.</div> | `Python` `PyTorch` `OpenCV` |
-| **Medical AI** | <div dir="rtl">تحقیق و توسعه راهکارهای هوشمند برای تحلیل تصاویر و داده‌های پزشکی.</div> | `Deep Learning` `CV` `R&D` |
-| **Data Systems** | <div dir="rtl">مدل‌سازی، تحلیل، پیش‌بینی و سیستم‌های تصمیم‌یار داده‌محور.</div> | `Python` `NumPy` `Pandas` |
-| **Software Platforms** | <div dir="rtl">طراحی و توسعه محصولات نرم‌افزاری، APIها و سامانه‌های مقیاس‌پذیر.</div> | `TypeScript` `FastAPI` `Docker` |
+<table width="100%">
 
-<br>
+<tr>
+<td width="50%" valign="top">
 
-##  Engineering Philosophy
-
-<div align="center">
-
-|  Research |  Engineering |  Innovation |
-|:---:|:---:|:---:|
-| Understand the problem | Build reliable systems | Create useful technology |
-
-</div>
-
-<br>
-
-<a id="contact"></a>
-## Collaboration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Research-0B132B?style=flat-square">
-<img src="https://img.shields.io/badge/AI%20Engineering-1C2541?style=flat-square">
-<img src="https://img.shields.io/badge/Software-D4AF37?style=flat-square&color=D4AF37">
-<img src="https://img.shields.io/badge/Data-1C2541?style=flat-square">
-<img src="https://img.shields.io/badge/R%26D-0B132B?style=flat-square">
-
-</div>
+Intelligent Systems
 
 <div dir="rtl">
 
-آذرین افزار از همکاری در پروژه‌های تحقیقاتی، صنعتی و فناورانه در زمینه هوش مصنوعی، مهندسی نرم‌افزار، داده و توسعه فناوری استقبال می‌کند.
+سامانه‌های هوشمند مبتنی بر یادگیری ماشین
+برای تحلیل، پیش‌بینی و حل مسائل پیچیده.
+
+</div>
+
+Python PyTorch FastAPI
+
+</td>
+
+<td width="50%" valign="top">
+
+Computer Vision
+
+<div dir="rtl">
+
+سیستم‌های بینایی ماشین برای تحلیل تصاویر،
+تشخیص، طبقه‌بندی و استخراج اطلاعات بصری.
+
+</div>
+
+Python PyTorch OpenCV
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+Medical AI
+
+<div dir="rtl">
+
+پژوهش و توسعه راهکارهای هوشمند برای
+تحلیل تصاویر و داده‌های پزشکی.
+
+</div>
+
+Deep Learning Computer Vision R&D
+
+</td>
+
+<td width="50%" valign="top">
+
+Data Systems
+
+<div dir="rtl">
+
+مدل‌سازی، تحلیل، پیش‌بینی و توسعه
+سیستم‌های تصمیم‌یار داده‌محور.
+
+</div>
+
+Python NumPy Pandas
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+Software Platforms
+
+<div dir="rtl">
+
+طراحی و توسعه محصولات نرم‌افزاری،
+APIها و سامانه‌های قابل توسعه.
+
+</div>
+
+TypeScript FastAPI Docker
+
+</td>
+
+<td width="50%" valign="top">
+
+Technology R&D
+
+<div dir="rtl">
+
+بررسی فناوری‌های نوظهور و تبدیل ایده‌های
+فناورانه به نمونه‌های قابل آزمایش و توسعه.
+
+</div>
+
+Research Prototype Engineering
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+Engineering Principles
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+01
+
+Understand
+
+<br>
+
+Understand the problem<br>
+before building the solution.
+
+</td>
+
+<td align="center" width="33%">
+
+02
+
+Engineer
+
+<br>
+
+Turn research and ideas<br>
+into reliable systems.
+
+</td>
+
+<td align="center" width="33%">
+
+03
+
+Create
+
+<br>
+
+Build technology<br>
+for real-world use.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
+
+The Azarin Approach
+
+<div align="center">
+
+<img src="./assets/azarin-loop.svg" width="88%" alt="Azarin product development loop">
+
+</div>
+
+<br>
+
+<div dir="rtl">
+
+در آذرین افزار، پژوهش نقطه پایان نیست؛ بخشی از چرخه ساخت محصول است.
+نتیجه هر مرحله می‌تواند به مرحله بعد منتقل شود و تجربه حاصل از
+مهندسی و استفاده واقعی نیز دوباره به پژوهش و توسعه بازگردد.
+
+</div>
+
+<br>
+
+<a id="collaboration"></a>
+
+Collaboration
+
+<div align="center">
+
+We collaborate across
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-0B132B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Software-1C2541?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data-334E68?style=for-the-badge">
+<img src="https://img.shields.io/badge/R%26D-D4AF37?style=for-the-badge&logoColor=black">
+
+<br><br>
+
+<strong>Research · Product Development · Technology Solutions</strong>
+
+</div>
+
+<br>
+
+<div align="center">
+
+AZARIN AFZAR
+
+<sub>Technology & Product Development</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Research-0B132B?style=flat-square">
+<img src="https://img.shields.io/badge/Engineering-1C2541?style=flat-square">
+<img src="https://img.shields.io/badge/Innovation-D4AF37?style=flat-square&logoColor=black">
+
+<br><br>
+
+<sub>© Azarin Afzar</sub>
+
+</div>
