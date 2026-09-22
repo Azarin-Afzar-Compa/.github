@@ -31,7 +31,7 @@ Artificial Intelligence · Software Engineering · Data · Research & Developmen
 
 <div align="center">
 
-<img src="./assets/azarin-process.svg" width="92%" alt="Azarin Afzar development process">
+<img src="./assets/azarin-process.png" width="92%" alt="Azarin Afzar development process">
 
 </div>
 
