@@ -31,7 +31,8 @@ Artificial Intelligence · Software Engineering · Data · Research & Developmen
 
 <div align="center">
 
-<img src="./assets/azarin-process.png" width="92%" alt="Azarin Afzar development process">
+<img width="2172" height="724" alt="azarin-process" src="https://github.com/user-attachments/assets/45fcfa47-8425-4552-aac8-3f3d7bf4d757" />
+
 
 </div>
 
@@ -186,13 +187,7 @@ Engineering & Infrastructure
 
 <br>
 
-<a id="research"></a>
-
-Research & Development
-
-<div align="center">
-
-<img src="./assets/azarin-rnd.svg" width="92%" alt="Azarin research and development lifecycle">
+<a id="research"></a
 
 </div>
 
@@ -384,15 +379,6 @@ for real-world use.
 
 <br>
 
-The Azarin Approach
-
-<div align="center">
-
-<img src="./assets/azarin-loop.svg" width="88%" alt="Azarin product development loop">
-
-</div>
-
-<br>
 
 <div dir="rtl">
 
