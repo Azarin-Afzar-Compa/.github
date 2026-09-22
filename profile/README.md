@@ -187,113 +187,12 @@ Engineering & Infrastructure
 
 <br>
 
-<a id="research"></a
-
 </div>
 
 <br>
 
 <div dir="rtl">
 
-فرآیند تحقیق و توسعه در آذرین افزار از تعریف مسئله آغاز می‌شود.
-سپس راهکارها بررسی و در محیط آزمایشی ارزیابی می‌شوند.
-ایده‌های اثبات‌شده وارد مرحله نمونه‌سازی شده و در ادامه با
-اصول مهندسی نرم‌افزار به سیستم‌های قابل استفاده تبدیل می‌شوند.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<code>DISCOVER</code>
- → 
-<code>RESEARCH</code>
- → 
-<code>EXPERIMENT</code>
- → 
-<code>PROTOTYPE</code>
- → 
-<code>ENGINEER</code>
- → 
-<code>DEPLOY</code>
-
-</div>
-
-<br>
-
-<a id="work"></a>
-
-Research Prototype Engineering
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-Engineering Principles
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-01
-
-Understand
-
-<br>
-
-Understand the problem<br>
-before building the solution.
-
-</td>
-
-<td align="center" width="33%">
-
-02
-
-Engineer
-
-<br>
-
-Turn research and ideas<br>
-into reliable systems.
-
-</td>
-
-<td align="center" width="33%">
-
-03
-
-Create
-
-<br>
-
-Build technology<br>
-for real-world use.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-
-<div dir="rtl">
-
-در آذرین افزار، پژوهش نقطه پایان نیست؛ بخشی از چرخه ساخت محصول است.
-نتیجه هر مرحله می‌تواند به مرحله بعد منتقل شود و تجربه حاصل از
-مهندسی و استفاده واقعی نیز دوباره به پژوهش و توسعه بازگردد.
-
-</div>
-
-<br>
 
 <a id="collaboration"></a>
 
