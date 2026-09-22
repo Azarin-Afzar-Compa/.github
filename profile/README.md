@@ -178,12 +178,6 @@ AI & Machine Learning
 
 <br><br>
 
-Data
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data technologies">
-
-<br><br>
-
 Engineering & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux&theme=dark" alt="Engineering technologies">
