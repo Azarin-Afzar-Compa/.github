@@ -19,10 +19,6 @@ Artificial Intelligence · Software Engineering · Data · Research & Developmen
   ·  
 <a href="#technology">TECHNOLOGY</a>
   ·  
-<a href="#research">R&D</a>
-  ·  
-<a href="#work">WORK</a>
-  ·  
 <a href="#collaboration">COLLABORATION</a>
 
 </div>
